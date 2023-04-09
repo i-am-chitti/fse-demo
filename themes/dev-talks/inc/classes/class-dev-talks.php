@@ -47,5 +47,10 @@ class Dev_Talks {
 	public function dev_talks_support() {
 		// Add support for core block styles.
 		add_theme_support( 'wp-block-styles' );
+
+		add_theme_support( 'responsive-embeds' );
+
+		// Add support for experimental link color control.
+		add_theme_support( 'experimental-link-color' );
 	}
 }
