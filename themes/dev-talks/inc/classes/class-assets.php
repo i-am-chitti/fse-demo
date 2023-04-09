@@ -50,6 +50,7 @@ class Assets {
 		$this->register_script( 'core-navigation', 'js/core-navigation.js' );
 		$this->register_style( 'core-navigation', 'css/core-navigation.css' );
 		$this->register_style( 'dev-talks-styles', 'css/styles.css' );
+		$this->register_style( 'dev-talks-main-style', 'style.css' );
 	}
 
 	/**
@@ -169,6 +170,7 @@ class Assets {
 	 */
 	public function enqueue_assets() {
 		wp_enqueue_style( 'dev-talks-styles' );
+		wp_enqueue_style( 'dev-talks-main-style' );
 	}
 
 }
