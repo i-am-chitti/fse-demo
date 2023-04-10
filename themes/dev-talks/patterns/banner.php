@@ -29,8 +29,8 @@ return array(
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"textColor":"background","align":"center","style":{"color":{"background":"#4fd675"}},"fontSize":"medium"} -->
-<div class="wp-block-button aligncenter has-custom-font-size has-medium-font-size"><a class="wp-block-button__link has-background-color has-text-color has-background wp-element-button" style="background-color:#4fd675"><strong>Read More</strong></a></div>
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"background","align":"center","style":{"color":{"background":"#44c3c3"}},"fontSize":"medium"} -->
+<div class="wp-block-button aligncenter has-custom-font-size has-medium-font-size"><a class="wp-block-button__link has-background-color has-text-color has-background wp-element-button" style="background-color:#44c3c3;"><strong>Read More</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->

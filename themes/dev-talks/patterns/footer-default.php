@@ -52,7 +52,7 @@ return array(
 
 <!-- wp:group {"backgroundColor":"accent","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-accent-background-color has-background"><!-- wp:paragraph {"align":"center","textColor":"background","fontSize":"medium"} -->
-<p class="has-text-align-center has-background-color has-text-color has-medium-font-size">Proudly powered by wpdev</p>
+<p class="has-text-align-center has-background-color has-text-color has-medium-font-size">Proudly powered by WordPress</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->',
 );
