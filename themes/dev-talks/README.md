@@ -1,12 +1,17 @@
-# Theme Elementary
+# Dev Talks
 
 ![image](https://user-images.githubusercontent.com/59014930/187202051-df015d4a-f885-40cb-9fc9-c13991d3216d.png)
 
-A starter theme that facilitates a quick head start for developing new [block-based themes](https://developer.wordpress.org/block-editor/how-to-guides/themes/block-theme-overview/) along with a bunch of developer-friendly features.
+Dev Talks Theme is a WordPress Full Site Editing (FSE) theme designed for the Codemancer website. It is built with flexibility in mind, allowing you to easily customize various aspects of the theme to fit your needs.
+## Features
 
-- [Understand the Folder Structure](https://github.com/rtCamp/theme-elementary#understand-the-folder-structure-open_file_folder)
-- [Get Started](https://github.com/rtCamp/theme-elementary#get-started-rocket)
-- [Development](https://github.com/rtCamp/theme-elementary#development-computer)
+Dev Talks Theme comes with a range of features to help you build a modern, user-friendly website:
+
+- Full Site Editing (FSE) support: Dev Talks Theme is designed to work with WordPress Full Site Editing (FSE), allowing you to customize your entire website using the block editor.
+- Customizable header and footer: You can easily customize the header and footer of your website using the block editor.
+- Customizable homepage: Dev Talks Theme comes with a customizable homepage template that allows you to showcase your services, recent blog posts, and more.
+- Customizable blog page: The theme comes with a customizable blog page template that allows you to display your blog posts in a clean, modern layout.
+- Responsive design: Dev Talks Theme is designed to be fully responsive, ensuring that your website looks great on all devices.
 
 ## Understand the Folder Structure :open_file_folder:
 ```
@@ -39,7 +44,7 @@ A starter theme that facilitates a quick head start for developing new [block-ba
 
 ```
 
-## Get Started :rocket:
+## Get Involved in development :rocket:
 
 ### Method 1 (Recommended)
 ```
