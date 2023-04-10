@@ -8,14 +8,14 @@
 namespace Dev_Talks;
 
 use Dev_Talks\Traits\Singleton;
-use WP_Block_Pattern_Categories_Registry;
+use \WP_Block_Pattern_Categories_Registry;
 
 /**
- * Class Block_Patterns
+ * Class Patterns
  *
  * @since 1.0.0
  */
-class Block_Patterns {
+class Patterns {
 
 	use Singleton;
 
@@ -25,7 +25,7 @@ class Block_Patterns {
 	 * @var array
 	 */
 	public $categories = array(
-		'dev-talks' => array( 'label' => __( 'Dev Talks Patterns', 'dev-talks' ) ),
+		'dev-talks' => array( 'label' => 'Dev Talks Patterns' ),
 	);
 
 	/**
@@ -45,7 +45,8 @@ class Block_Patterns {
 	 */
 	protected function __construct() {
 		// Setup hooks.
-		$this->setup_hooks();
+		// $this->setup_hooks();
+
 	}
 
 	/**
