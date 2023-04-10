@@ -1,8 +1,12 @@
 # Dev Talks
 
-![image](https://user-images.githubusercontent.com/59014930/187202051-df015d4a-f885-40cb-9fc9-c13991d3216d.png)
+![screenshot](https://user-images.githubusercontent.com/60139930/230917390-40afc2f7-2abf-489f-b128-f7c89d377f35.png)
+
 
 Dev Talks Theme is a WordPress Full Site Editing (FSE) theme designed for the Codemancer website. It is built with flexibility in mind, allowing you to easily customize various aspects of the theme to fit your needs.
+
+View samples - [Here](https://github.com/i-am-chitti/wp-fse-demo/tree/main/themes/dev-talks/screenshots)
+
 ## Features
 
 Dev Talks Theme comes with a range of features to help you build a modern, user-friendly website:
@@ -12,6 +16,7 @@ Dev Talks Theme comes with a range of features to help you build a modern, user-
 - Customizable homepage: Dev Talks Theme comes with a customizable homepage template that allows you to showcase your services, recent blog posts, and more.
 - Customizable blog page: The theme comes with a customizable blog page template that allows you to display your blog posts in a clean, modern layout.
 - Responsive design: Dev Talks Theme is designed to be fully responsive, ensuring that your website looks great on all devices.
+
 
 ## Understand the Folder Structure :open_file_folder:
 ```
@@ -124,5 +129,3 @@ Run PHP tests.
 npm run test:php
 ```
 
-## Does this interest you?
-<a href="https://rtcamp.com/"><img src="https://rtcamp.com/wp-content/uploads/sites/2/2019/04/github-banner@2x.png" alt="Join us at rtCamp, we specialize in providing high performance enterprise WordPress solutions"></a>
